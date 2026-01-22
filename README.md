@@ -1,5 +1,5 @@
 # Premier Schools Exhibition - Landing Page
-
+# Note:- All the photos folder should come under assets foleder as shown in project structure 
 A modern, responsive landing page designed for the "Premier Schools Exhibition" in Gurugram. This project serves as an event portal where parents can view participating schools, register for the event, and pre-schedule appointments.
 
 ## 🌟 Features
