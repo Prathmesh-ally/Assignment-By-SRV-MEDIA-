@@ -30,7 +30,7 @@ A modern, responsive landing page designed for the "Premier Schools Exhibition" 
 
 ## 📂 Project Structure
 
-Ensure your project directory looks like this for the code to work correctly:
+Ensure your project directory matches this structure for all images to load correctly:
 
 ```text
 /project-root
@@ -39,12 +39,28 @@ Ensure your project directory looks like this for the code to work correctly:
 ├── mainPage.css        # Styling and animations
 ├── README.md           # Project documentation
 │
-└── Assets/             # Image directory
-    ├── logo.png
-    ├── CARD1.jpg
-    ├── CARD2.jpg
-    ├── Card3.jpg
-    ├── boy-gesturing...jpg
-    ├── portrait-person...jpg
-    ├── zulfugar-karimov...jpg
-    └── (other image assets referenced in HTML)
+└── Assets/             # Image Assets Directory
+    │
+    ├── General/        # Logo and general section images
+    │   ├── logo.png
+    │   └── edi-kurniawan-Mq4wJuX1-OQ-unsplash.jpg
+    │
+    ├── Hero/           # Images for the top scrolling animation
+    │   ├── CARD1.jpg
+    │   ├── CARD2.jpg
+    │   ├── Card3.jpg
+    │   ├── boy-gesturing-thumb-up-while-standing-near-girl.jpg
+    │   └── portrait-person-playing-cricket-sport.jpg
+    │
+    ├── Schools/        # Logos/Images for Participating Schools
+    │   ├── zulfugar-karimov-xyrrZb8oZyA-unsplash.jpg
+    │   ├── dominic-kurniawan-suryaputra-v4DVZst1MhA-unsplash.jpg
+    │   ├── vishnu-prasad-fYTzPuF4alI-unsplash.jpg
+    │   ├── tayfun-dikmen-Aq90YhjYqrk-unsplash.jpg
+    │   └── Copilot_20250712_021810.png
+    │
+    └── Categories/     # Backgrounds for School Categories
+        ├── dominic-kurniawan-suryaputra-8IUwVAsMqUM-unsplash.jpg
+        ├── faustina-okeke-SjzZV4JOge8-unsplash.jpg
+        ├── tai-ngo-05dJtA4hFXY-unsplash.jpg
+        └── matthew-kirk-aGVMJk3j26U-unsplash.jpg
