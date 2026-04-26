@@ -64,3 +64,5 @@ Ensure your project directory matches this structure for all images to load corr
         ├── faustina-okeke-SjzZV4JOge8-unsplash.jpg
         ├── tai-ngo-05dJtA4hFXY-unsplash.jpg
         └── matthew-kirk-aGVMJk3j26U-unsplash.jpg
+
+## GIT DEMO
